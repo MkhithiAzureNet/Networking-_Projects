@@ -68,6 +68,7 @@ This license governs the use, distribution, and evaluation of CoolNet+ Pulse and
 ────────────────────────────────────────────
 
 For licensing inquiries, partnerships, or evaluation feedback:
+
 Nhlanhla Mkhithi  
 CoolNet+ Toolkit Development  
 
