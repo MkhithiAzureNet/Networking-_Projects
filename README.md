@@ -38,6 +38,7 @@ Toolkit: CoolNet+ Pulse
 Version: 1.0
 
 ────────────────────────────────────────────
+
 This license governs the use, distribution, and evaluation of CoolNet+ Pulse and associated tools. By accessing, installing, or executing this software, you accept the following terms:
 
 1. Ownership & Rights
@@ -65,6 +66,7 @@ This license governs the use, distribution, and evaluation of CoolNet+ Pulse and
 - Requests for collaboration or feature enhancements should be directed to the author.
 
 ────────────────────────────────────────────
+
 For licensing inquiries, partnerships, or evaluation feedback:
 Nhlanhla Mkhithi  
 CoolNet+ Toolkit Development  
