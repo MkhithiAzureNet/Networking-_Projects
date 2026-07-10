@@ -7,7 +7,7 @@
 🛠️ **Author**: Nhlanhla Mkhithi @ Cool Ideas Internet service provider
 
 ## 🚀 Features
-- Pings local gateway & internet targetsto measure latency & loss
+- Pings local gateway & internet targets to measure latency & loss
 - Anaylzes & reports packet loss trends every 10 minutes
 - Windows device compatibility checks
 - Checks DNS resolution health with timestamped status
